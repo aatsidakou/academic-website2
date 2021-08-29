@@ -22,7 +22,7 @@ design:
   # Use a dark navy background with light text.
   background:
     color: ''
-    text_color_light: false
+    text_color_light: ''
 ---
 
 **Cockrell School of Engineering Fellowship**

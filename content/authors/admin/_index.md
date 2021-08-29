@@ -20,7 +20,7 @@ interests:
 organizations:
 - name: University of Texas at Austin
   url: https://www.ece.utexas.edu/
-role: Electrical and Computer engineering
+role: Electrical and Computer Engineering
 social:
 - icon: envelope
   icon_pack: fas
