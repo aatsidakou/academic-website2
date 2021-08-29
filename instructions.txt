@@ -1,0 +1,12 @@
+Biography: content/authors/admin
+
+Photo: content/authors/admin
+
+contact info: config/_default/params.yaml
+
+theme color: config/_default/params.yaml to choose theme, data/themes/mytheme.toml to customize my theme
+
+favicon: themes/github.com/wowchemy/wowchemy-hugo../wowchwmy/v5/assets/media
+
+
+
