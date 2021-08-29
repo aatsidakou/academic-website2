@@ -16,7 +16,7 @@ highlight_name: false
 interests:
 - Theoretical Machine Learning
 - Online Learning
-- High-dimensional statistics
+- High-dimensional Statistics
 organizations:
 - name: University of Texas at Austin
   url: https://www.ece.utexas.edu/
@@ -37,7 +37,7 @@ title: Alexia Atsidakou
 
 <br/> <br/>
 
-I am a second year Phd student at the University of Texas at Austin, advised by **Constantine Caramanis** and **Sujay Sanghavi**. I received my BSE from the department of Electrical and Computer Engineering, National Technical University of Athens. After receiving my BSE I worked for a year at NCSR “Demokritos”, in the Complex Event Recognition Group.
+I am a second year PhD student at the University of Texas at Austin, advised by **Constantine Caramanis** and **Sujay Sanghavi**. I received my BSE from the department of Electrical and Computer Engineering, National Technical University of Athens. After receiving my BSE I worked for a year at NCSR “Demokritos”, in the Complex Event Recognition Group.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Alexia_Atsidakou.pdf" "newtab" >}}CV{{< /staticref >}}.
