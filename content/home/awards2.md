@@ -27,11 +27,11 @@ design:
 
 **Cockrell School of Engineering Fellowship**
 
-<sub>Sep 2020</sub>
+<sub>September 2020</sub>
 
 <br/>
 
 **Eurobank Undergraduate Grant**
 
-<sub>Sep 2014</sub>
+<sub>October 2014</sub>
 
