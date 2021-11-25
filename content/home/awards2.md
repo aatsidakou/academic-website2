@@ -1,5 +1,5 @@
 ---
-active: false 
+active: true 
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
@@ -8,7 +8,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 40
 
 # Section title
 title: Awards
@@ -27,23 +27,23 @@ design:
 ---
 **Cadence Women in Technology Fellowship**
 
-<sub>December 2021</sub>
+<sub>Dec. 2021</sub>
 
 <br/>
 
 **Gerondelis Foundation Scholarship**
 
-<sub>November 2021</sub>
+<sub>Nov. 2021</sub>
 
 <br/>
 
 **Cockrell School of Engineering Fellowship**
 
-<sub>September 2020</sub>
+<sub>Sept. 2020</sub>
 
 <br/>
 
 **Eurobank Undergraduate Grant**
 
-<sub>October 2014</sub>
+<sub>Oct. 2014</sub>
 

@@ -27,7 +27,6 @@ design:
 
 - Python
 - C/C++, Java
-- Prolog, HTML, SQL
 - Mathematica, Matlab
 
 
