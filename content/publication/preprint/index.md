@@ -1,7 +1,7 @@
 ---
 authors:
 - C. Akasiadis
-- Miguel Ponce de Leon 
+- M. Ponce de Leon 
 - A. Montagud
 - E. Michelioudakis
 - admin

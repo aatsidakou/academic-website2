@@ -1,4 +1,5 @@
 ---
+active: false 
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
@@ -24,6 +25,17 @@ design:
     color: ''
     text_color_light: ''
 ---
+**Cadence Women in Technology Fellowship**
+
+<sub>December 2021</sub>
+
+<br/>
+
+**Gerondelis Foundation Scholarship**
+
+<sub>November 2021</sub>
+
+<br/>
 
 **Cockrell School of Engineering Fellowship**
 

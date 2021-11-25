@@ -40,4 +40,4 @@ title: Alexia Atsidakou
 I am a second year PhD student at the University of Texas at Austin, advised by **Constantine Caramanis** and **Sujay Sanghavi**. I received my BSE from the department of Electrical and Computer Engineering, National Technical University of Athens. After receiving my BSE I worked for a year at NCSR “Demokritos”, in the Complex Event Recognition Group.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Alexia_Atsidakou__Google_Fellowship_Application_.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Alexia_Atsidakou.pdf" "newtab" >}}CV{{< /staticref >}}.
