@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexia Atsidakou</title>
+    <link>https://academic-demo.netlify.app/</link>
+      <atom:link href="https://academic-demo.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexia Atsidakou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_huad13df94c73f1a3134552d0d70a95ee1_6762_512x512_fill_lanczos_center_3.png</url>
+      <title>Alexia Atsidakou</title>
+      <link>https://academic-demo.netlify.app/</link>
+    </image>
+    
+    <item>
+      <title>Cadence Women in Technology Scholarship</title>
+      <link>https://academic-demo.netlify.app/award/cadence/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/award/cadence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gerondelis Foundation Scholarship</title>
+      <link>https://academic-demo.netlify.app/award/gerondelis/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/award/gerondelis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combinatorial Blocking Bandits with Stochastic Delays</title>
+      <link>https://academic-demo.netlify.app/publication/icml-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/icml-2021/</guid>
+      <description>&lt;!--- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Parallel Model Exploration for Tumor Treatment Simulations</title>
+      <link>https://academic-demo.netlify.app/publication/preprint/</link>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cockrell School of Engineering Fellowship</title>
+      <link>https://academic-demo.netlify.app/award/ut/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/award/ut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eurobank Undergraduate Grant</title>
+      <link>https://academic-demo.netlify.app/award/eurobank/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/award/eurobank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://academic-demo.netlify.app/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

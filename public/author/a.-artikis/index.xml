@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Artikis | Alexia Atsidakou</title>
+    <link>https://academic-demo.netlify.app/author/a.-artikis/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/a.-artikis/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Artikis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_huad13df94c73f1a3134552d0d70a95ee1_6762_512x512_fill_lanczos_center_3.png</url>
+      <title>A. Artikis</title>
+      <link>https://academic-demo.netlify.app/author/a.-artikis/</link>
+    </image>
+    
+    <item>
+      <title>Parallel Model Exploration for Tumor Treatment Simulations</title>
+      <link>https://academic-demo.netlify.app/publication/preprint/</link>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

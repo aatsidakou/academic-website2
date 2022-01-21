@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Awards | Alexia Atsidakou</title>
+    <link>https://academic-demo.netlify.app/award/</link>
+      <atom:link href="https://academic-demo.netlify.app/award/index.xml" rel="self" type="application/rss+xml" />
+    <description>Awards</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_huad13df94c73f1a3134552d0d70a95ee1_6762_512x512_fill_lanczos_center_3.png</url>
+      <title>Awards</title>
+      <link>https://academic-demo.netlify.app/award/</link>
+    </image>
+    
+    <item>
+      <title>Cadence Women in Technology Scholarship</title>
+      <link>https://academic-demo.netlify.app/award/cadence/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/award/cadence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gerondelis Foundation Scholarship</title>
+      <link>https://academic-demo.netlify.app/award/gerondelis/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/award/gerondelis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cockrell School of Engineering Fellowship</title>
+      <link>https://academic-demo.netlify.app/award/ut/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/award/ut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eurobank Undergraduate Grant</title>
+      <link>https://academic-demo.netlify.app/award/eurobank/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/award/eurobank/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

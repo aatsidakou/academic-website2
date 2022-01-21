@@ -1,0 +1,18 @@
+{
+  "name": "Alexia Atsidakou",
+  "short_name": "Alexia Atsidakou",
+  "lang": "en-us",
+  "theme_color": "#e3813b",
+  "background_color": "#e3813b",
+  "icons": [{
+    "src": "/media/icon_huad13df94c73f1a3134552d0d70a95ee1_6762_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_huad13df94c73f1a3134552d0d70a95ee1_6762_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
