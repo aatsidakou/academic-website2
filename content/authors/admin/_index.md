@@ -24,7 +24,7 @@ role: Electrical and Computer Engineering
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:atsidakou@utexas.edu
+  link: mailto:atsidakou[at]utexas[dot]edu
 - <!--- icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ -->
