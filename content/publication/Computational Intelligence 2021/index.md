@@ -1,24 +1,25 @@
 ---
-author_notes:
-- Equal contribution
-- Equal contribution
 authors:
-- admin
-- Orestis Papadigenopoulos
-- Constantine Caramanis
-- Sujay Sanghavi
-- Sanjay Shakkottai
-date: "2022-02-01T00:00:00Z"
+- C. Akasiadis 
+- M. Ponce-de-Leon 
+- A. Montagud 
+- E. Michelioudakis 
+- author 
+- E. Alevizos 
+- A. Artikis 
+- A. Valencia 
+- G. Paliouras
+date: "2021-01-01T00:00:00Z"
 doi: ""
 featured: false
 projects: []
-publication: '*under review*'
+publication: '*Computational Intelligence Journal*'
 publication_short: ""
-publishDate: "2022-02-01T00:00:00Z"
-title: Asymptotically-Optimal Gaussian Bandits with Side Observations
+publishDate: "2022-03-01T00:00:00Z"
+title: Parallel Model Exploration for Tumor Treatment Simulations
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/2103.14132.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
