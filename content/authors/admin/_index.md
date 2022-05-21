@@ -37,7 +37,7 @@ title: Alexia Atsidakou
 
 <br/> <br/>
 
-I am a second year PhD student at the University of Texas at Austin, advised by {{< staticref "https://www.ece.utexas.edu/people/faculty/constantine-caramanis" "newtab" >}}Constantine Caramanis{{< /staticref >}} and {{< staticref "https://www.ece.utexas.edu/people/faculty/sujay-sanghavi" "newtab" >}}Sujay Sanghavi{{< /staticref >}}. I received my BSE from the department of Electrical and Computer Engineering, National Technical University of Athens. After receiving my BSE I worked for a year at NCSR “Demokritos”, in the Complex Event Recognition Group.
+I am a second year PhD student at the University of Texas at Austin, advised by {{< staticref "https://www.ece.utexas.edu/people/faculty/constantine-caramanis" "newtab" >}}Constantine Caramanis{{< /staticref >}} and {{< staticref "https://www.ece.utexas.edu/people/faculty/sujay-sanghavi" "newtab" >}}Sujay Sanghavi{{< /staticref >}}. I received my BSE from the department of Electrical and Computer Engineering, National Technical University of Athens.
 
 I will spend this summer at {{< staticref "https://www.amazon.science/" "newtab" >}}Amazon Science{{< /staticref >}} as an Applied Scientist Intern.
 
