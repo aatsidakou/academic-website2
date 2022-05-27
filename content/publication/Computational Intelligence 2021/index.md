@@ -4,7 +4,7 @@ authors:
 - M. Ponce-de-Leon 
 - A. Montagud 
 - E. Michelioudakis 
-- author 
+- admin 
 - E. Alevizos 
 - A. Artikis 
 - A. Valencia 
