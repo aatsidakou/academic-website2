@@ -1,8 +1,4 @@
 ---
-author_notes:
-- Equal contribution
-- Equal contribution
-- Equal contribution
 authors:
 - admin
 - Constantine Caramanis
